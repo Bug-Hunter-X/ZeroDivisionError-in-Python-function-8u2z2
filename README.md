@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates a common error: division by zero. The `bug.py` file shows the erroneous code, while `bugSolution.py` provides a corrected version with error handling.
